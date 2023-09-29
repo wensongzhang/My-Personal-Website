@@ -27,14 +27,14 @@ const MoreAboutMe: NextPage = () => {
                             
                         </div>
                         <div className="delay hide flex flex-col more-about-image items-center">
-                            <img width="70%" src="MoreAboutSection/self1.jpg"></img>
-                            <p className="text-primary-300">Photo taken at Washington DC in 2018 Christmas. </p>
+                            <img width="70%" src="https://github.com/wensongzhang/My-Personal-Website/blob/05b79862686f830d2c4684f04fd23fe9b2fc2798/public/MoreAboutSection/self1.jpg?raw=true"></img>
+                            <p className="text-primary-300"> Christmas 2018 in Washington DC. </p>
                         </div>
                     </div>
                     <div className="more-about-image-text-container reverse items-center justify-between gap-10 max-w-7xl px-20">
                         <div className="delay hide flex flex-col more-about-image items-center">
-                            <img width="70%" src="/MoreAboutSection/self2.JPG"></img>
-                            <p className="text-primary-300">Photo taken at Chengdu in 2021 </p>
+                            <img width="70%" src="https://github.com/wensongzhang/My-Personal-Website/blob/05b79862686f830d2c4684f04fd23fe9b2fc2798/public/MoreAboutSection/self2.jpg?raw=true"></img>
+                            <p className="text-primary-300"> Photo taken at Chengdu in 2021. </p>
                         </div>
                         <div className="flex flex-col more-about-text gap-8">
                             <p className="text-lg font-semibold text-black">
