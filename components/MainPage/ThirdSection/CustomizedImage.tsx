@@ -1,9 +1,5 @@
 // Image
-const Portfolio =  "ThirdSection/Portfolio.png"
-const AWS = "ThirdSection/aws.png"
-const SmartHealth = "ThirdSection/SmartHealth.png"
-const Midea = "ThirdSection/Midea.png"
-const TickMaster = "ThirdSection/TickMaster.png"
+const Portfolio =  "ThirdSection/Website.svg"
 const Ubisoft = "ThirdSection/Ubisoft_logo.svg"
 const BF = "ThirdSection/BF.svg"
 const PhotoApp = "ThirdSection/PhotoApp.svg"

@@ -126,8 +126,8 @@ function ThirdSection() {
                             <ProjectItems
                                 imgId="Doodle"
                                 title="DoodlePark"
-                                website="https://scarletthong.top"
-                                source="https://github.com/honghong1012/Portfolio"
+                                // website="https://my-personal-website-navy-ten.vercel.app/"
+                                // source="https://github.com/wensongzhang/My-Personal-Website"
                                 description={
                                     <>
                                         Doodle Park is a dynamic web-based application designed for user interaction 
@@ -151,10 +151,10 @@ function ThirdSection() {
                                 }
                             />
                             <ProjectItems
-                                imgId="Doodle"
+                                imgId="Portfolio"
                                 title="Personal Website"
-                                website="https://scarletthong.top"
-                                source="https://github.com/honghong1012/Portfolio"
+                                website="https://my-personal-website-navy-ten.vercel.app/"
+                                source="https://github.com/wensongzhang/My-Personal-Website"
                                 description={
                                     <>
                                         My self-coded technical website, meticulously crafted with <b>TypeScript</b>, <b>Next.js</b>{" "} and the finesse 

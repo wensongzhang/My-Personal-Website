@@ -5,57 +5,48 @@ const MoreAboutMe: NextPage = () => {
         <section id="more-about" className="hide flex ">
                 <div className="mx-auto more-about-container">
                     <div className="ml-20 flex gap-4">
-                        <h1 className="more-about-title bold text-6xl">Hey there</h1>
+                        <h1 className="more-about-title bold text-6xl">Hey there!</h1>
                         <img className="more-about-title-icon" src="https://github.com/honghong1012/honghong1012/blob/main/images/wave.gif?raw=true"></img>
                     </div>
                     <div className="more-about-image-text-container items-center justify-between gap-10 max-w-7xl px-20">
                         <div className="flex flex-col more-about-text gap-8" >
                             <p className="text-lg font-semibold text-black">
-                                💜 I was born in Qingdao, Shandong twenty-six years ago. 
-                                Since then I have been growing up in the city and living with my mother. 
-                                I grew up exploring places far from home, so I spent my high school and college in new cities. 
-                                One of my favorites was Xiamen, Fujian, where I spent four wonderful years of university, 
-                                met great friends, and made unique memories. 
+                                🌊 I was born in Qingdao, Shandong, a beautiful coastal city in China, 
+                                and my childhood is filled with fond memories of this place.
                             </p>
                             <p className="text-lg font-semibold text-black">
-                                💼 For my master's degree, I chose to spend it in a completely new country, 
-                                the United States. 
-                                Now, I have just finished my studies at Northwestern University 
-                                and am facing the important stage of my life.
+                                📚  In 2015, I embarked on my academic journey by pursuing my undergraduate degree in Chongqing, 
+                                where I majored in software engineering and began my captivating journey into the world of programming. 
+                                Just a year later, I took part in the "<a href="http://www.cciee121.com/html/home/index.html"><u>CCIEE 1+2+1</u></a>" program, which led me to transfer to 
+                                George Mason University in Fairfax, Virginia, where I delved deeper into computer science.
                             </p>
                             <p className="text-lg font-semibold text-black">
-                            🏃🏻‍♀️ Outside of work, I am an avid fan of fitness. 
-                            When I have free time, I can work out five days a week. 
-                            For me, fitness, like writing code, is something that I can see the results of my efforts. 
-                            In addition to working out, I also enjoy all kinds of sports, especially outdoor hiking. 
-                            I have to say, Seattle is still the best city for me in a sense, 
-                            with the lake in summer and snow in winter, it's perfect for a wild child like me!
+                                💜 To further my education, I pursued a master's degree in Computer Science at 
+                                Northwestern University in Evanston, Illinois, with an expected graduation date in December 2022. 
                             </p>
                             
                         </div>
                         <div className="delay hide flex flex-col more-about-image items-center">
                             <img width="70%" src="MoreAboutSection/self1.jpg"></img>
-                            <p className="text-primary-300">Photo taken on Mount Rainier</p>
+                            <p className="text-primary-300">Photo taken at Washington DC in 2018 Christmas. </p>
                         </div>
                     </div>
                     <div className="more-about-image-text-container reverse items-center justify-between gap-10 max-w-7xl px-20">
                         <div className="delay hide flex flex-col more-about-image items-center">
                             <img width="70%" src="/MoreAboutSection/self2.JPG"></img>
-                            <p className="text-primary-300">Baking egg yolk souffle...</p>
+                            <p className="text-primary-300">Photo taken at Chengdu in 2021 </p>
                         </div>
                         <div className="flex flex-col more-about-text gap-8">
                             <p className="text-lg font-semibold text-black">
-                                🍰 I am also a lover of cooking food. 
-                                I love to make Chinese desserts as well as bread. 
-                                What gives me the most satisfaction is not only the process of making it, 
-                                but also the joy of letting others eat delicious food.But when I think about it, 
-                                my hands-on hobby is not limited to cooking either, all craft tasks can attract me.
+                                🐈 Beyond the world of programming, I'm an ardent cat lover, 
+                                with a beloved feline companion named "Bai Gao" back in China 
+                                who holds a special place in my heart.
+
                             </p>
                             <p className="text-lg font-semibold text-black">
-                                🤔 The MBTI, which I have only taken once, shows that I am an ESFJ personality type. 
-                                (Although I don't know much about it.) 
-                                I am in fact a people-person, but I also enjoy and need my alone time. 
-                                Anyway, feel free to make friends with me!
+                                🎮 In my leisure time, I indulge in video games, including titles like 
+                                Genshin Impact, Apex Legends, and Valorant, where I find both enjoyment 
+                                and a refreshing break from the world of code.
                             </p>
                         </div>
                     </div>
