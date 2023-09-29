@@ -1,6 +1,6 @@
 # My-Personal-Website
 
-[wensongzhang.com](wensongzhang.com)
+[wensongzhang.com](https://www.wensongzhang.com/)
 
 ## Getting Started 🚀
 
