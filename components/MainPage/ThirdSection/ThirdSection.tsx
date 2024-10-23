@@ -16,6 +16,51 @@ function ThirdSection() {
                     {category === "next" && (
                         <>
                             <ProjectItems
+                                imgId="SyncSo"
+                                title="SyncSo"
+                                resume="Resume.pdf"
+                                description={
+                                    <>
+                                        As a Software Engineer at <b>SyncSo</b>, I developed full-stack web solutions 
+                                        using <b>JavaScript</b>, <b>Node.js</b>, <b>React Native</b>, and <b>MongoDB</b>, improving 
+                                        functionality and user engagement for e-commerce platforms. I led the 
+                                        migration of legacy systems to <b>AWS</b>, enhancing scalability and operational 
+                                        efficiency, and I also authored and maintained technical documentation to 
+                                        support knowledge sharing and development continuity.
+                                    </>
+                                }
+                                stack={
+                                    <>
+                                        <li>React Native</li>
+                                        <li>Redux</li>
+                                        <li>MongoDB</li>
+                                        <li>AWS</li>
+                                    </>
+                                }
+                            />
+                            <ProjectItems
+                                imgId="Outlier"
+                                title="Outlier"
+                                resume="Resume.pdf"
+                                description={
+                                    <>
+                                        As an AI Advanced Coder at <b>Outlier</b>, I created and fine-tuned AI models 
+                                        using cutting-edge <b>machine learning</b> and <b>deep learning</b> techniques, 
+                                        optimizing codebases for faster computation and improved system responsiveness. 
+                                        I led AI projects from concept to deployment, ensuring timely and successful 
+                                        delivery. Additionally, as an AI Writing Evaluator, I rigorously tested and 
+                                        validated AI writing outputs, addressing inconsistencies to enhance performance.
+                                    </>
+                                }
+                                stack={
+                                    <>
+                                        <li>Machine Learning</li>
+                                        <li>Deep Learning</li>
+                                        <li>Python</li>
+                                    </>
+                                }
+                            />
+                            <ProjectItems
                                 imgId="Ubisoft"
                                 title="Ubisoft Entertainment"
                                 resume="Resume.pdf"
